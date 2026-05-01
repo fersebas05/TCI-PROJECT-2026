@@ -9,13 +9,8 @@ void pruebaSet();
 
 int main() {
 	//#Code;
-	
-	Tdata s1 = create_str_ast();
-	s1->strData = load_str();
-	
-	mostrar_Tdata(s1);
-	
 	menuPrueba();
+	
 	return 0;
 }
 
